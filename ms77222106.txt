@@ -1,0 +1,5 @@
+﻿{
+  "Description": "File di verifica della proprietà del dominio per Microsoft 365 - posizionato nella radice del sito Web",
+  "Domain": "ellycode.com",
+  "Id": "e87825f9-e788-4fff-9e80-e2b47746e804"
+}
